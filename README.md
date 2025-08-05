@@ -25,7 +25,6 @@ The dataset includes:
 - **Store Information:** Store ID, Store Type, Size
 - **Sales Data:** Store, Department, Date, Weekly Sales, IsHoliday
 - **Economic Indicators:** Temperature, Fuel Price, CPI, Unemployment
-- **Holiday Calendar:** Super Bowl, Labor Day, Thanksgiving, Christmas
 
 ---
 
